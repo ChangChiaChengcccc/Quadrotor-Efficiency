@@ -1,0 +1,28 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/ncrl/chengcheng_ws/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/ncrl/chengcheng_ws/src/gps/include/**",
+        "/home/ncrl/chengcheng_ws/src/path_planner/include/**",
+        "/home/ncrl/chengcheng_ws/src/mav_comm/mav_msgs/include/**",
+        "/home/ncrl/chengcheng_ws/src/mav_comm/mav_planning_msgs/include/**",
+        "/home/ncrl/chengcheng_ws/src/offb/include/**",
+        "/home/ncrl/chengcheng_ws/src/plotmap/include/**",
+        "/home/ncrl/chengcheng_ws/src/plottest/include/**",
+        "/home/ncrl/chengcheng_ws/src/rotors_simulator/rotors_control/include/**",
+        "/home/ncrl/chengcheng_ws/src/rotors_simulator/rotors_gazebo_plugins/include/**",
+        "/home/ncrl/chengcheng_ws/src/rotors_simulator/rotors_hil_interface/include/**",
+        "/home/ncrl/chengcheng_ws/src/rotors_simulator/rotors_joy_interface/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
